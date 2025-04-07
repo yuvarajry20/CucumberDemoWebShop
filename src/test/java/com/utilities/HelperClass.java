@@ -31,7 +31,7 @@ public class HelperClass {
 	}
 	public static void teardown() {
 		if(driver!=null) {
-			driver.close();
+//			driver.close();
 			driver.quit();
 		}
 		helperclass=null;
