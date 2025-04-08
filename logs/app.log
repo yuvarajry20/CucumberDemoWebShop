@@ -178,3 +178,48 @@
 2025-04-07 21:33:41 [main] INFO  org.apache.logging.log4j.LogManager - Entered old password
 2025-04-07 21:33:41 [main] INFO  org.apache.logging.log4j.LogManager - Entered new password and confirmation
 2025-04-07 21:33:42 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Change Password' button
+2025-04-08 11:00:37 [main] INFO  org.apache.logging.log4j.LogManager - Initialized LoginPageAction
+2025-04-08 11:00:37 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:00:37 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:00:41 [main] INFO  org.apache.logging.log4j.LogManager - Provided email and password
+2025-04-08 11:00:49 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Log In'
+2025-04-08 11:00:50 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'My Email'
+2025-04-08 11:00:50 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:00:50 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'My Email'
+2025-04-08 11:00:53 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Addresses' and 'Add New'
+2025-04-08 11:00:53 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 11:00:53 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 11:00:54 [main] INFO  org.apache.logging.log4j.LogManager - Address form filled successfully
+2025-04-08 11:00:57 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Save'
+2025-04-08 11:00:58 [main] INFO  org.apache.logging.log4j.LogManager - Initialized LoginPageAction
+2025-04-08 11:00:58 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:00:58 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:01:03 [main] INFO  org.apache.logging.log4j.LogManager - Provided email and password
+2025-04-08 11:01:09 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Log In'
+2025-04-08 11:01:10 [main] INFO  org.apache.logging.log4j.LogManager - Initialized LoginPageAction
+2025-04-08 11:01:10 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:01:10 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:01:14 [main] INFO  org.apache.logging.log4j.LogManager - Provided email and password
+2025-04-08 11:01:14 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Log In'
+2025-04-08 11:01:15 [main] INFO  org.apache.logging.log4j.LogManager - Initialized LoginPageAction
+2025-04-08 11:01:15 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:01:15 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:01:20 [main] INFO  org.apache.logging.log4j.LogManager - Provided email and password
+2025-04-08 11:01:25 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Log In'
+2025-04-08 11:01:25 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:01:26 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'My Email'
+2025-04-08 11:01:27 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Change Password'
+2025-04-08 11:01:27 [main] INFO  org.apache.logging.log4j.LogManager - Entered old password
+2025-04-08 11:01:27 [main] INFO  org.apache.logging.log4j.LogManager - Entered new password and confirmation
+2025-04-08 11:01:27 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Change Password' button
+2025-04-08 11:01:28 [main] INFO  org.apache.logging.log4j.LogManager - Initialized LoginPageAction
+2025-04-08 11:01:28 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:01:28 [main] INFO  org.apache.logging.log4j.LogManager - Initialized AddAddressPageActions
+2025-04-08 11:01:33 [main] INFO  org.apache.logging.log4j.LogManager - Provided email and password
+2025-04-08 11:01:37 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Log In'
+2025-04-08 11:01:37 [main] INFO  org.apache.logging.log4j.LogManager - Initialized ChangePasswordPageAction
+2025-04-08 11:01:38 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'My Email'
+2025-04-08 11:01:39 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Change Password'
+2025-04-08 11:01:39 [main] INFO  org.apache.logging.log4j.LogManager - Entered old password
+2025-04-08 11:01:39 [main] INFO  org.apache.logging.log4j.LogManager - Entered new password and confirmation
+2025-04-08 11:01:39 [main] INFO  org.apache.logging.log4j.LogManager - Clicked 'Change Password' button
